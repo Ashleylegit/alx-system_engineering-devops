@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s source_file myfile
+file -m holberton.mgc
