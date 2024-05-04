@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# A bash script to get apache run on container
+sudo service apache2 start
